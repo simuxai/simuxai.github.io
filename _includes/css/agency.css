@@ -10,6 +10,12 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+
+.intro-text {
+    padding-top: 100px; /* Adjust this value to move it further down */
+}
+
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
