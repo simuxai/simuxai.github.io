@@ -279,7 +279,7 @@ header {
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat; /* Corrected value */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -296,7 +296,7 @@ header .intro-text .intro-lead-in {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
-    line-height: 50px;
+    line-height: 1.5; /* Adjusted for better readability */
 }
 
 header .intro-text .intro-heading {
@@ -305,10 +305,10 @@ header .intro-text .intro-heading {
     font-family: {{ site.data.template.font.primary }};
     font-size: 30px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 1.2; /* Adjusted for better readability */
 }
 
-@media(min-width:768px) {
+@media (min-width: 768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -319,7 +319,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 20px;
+        line-height: 1.5; /* Adjusted for better readability */
     }
 
     header .intro-text .intro-heading {
@@ -328,8 +328,20 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
-        line-height: 20px;
+        line-height: 1.2; /* Adjusted for better readability */
     }
+}
+
+/* Additional Media Queries for Better Responsiveness */
+@media (max-width: 767px) {
+    header .intro-text .intro-lead-in {
+        font-size: 18px; /* Slightly smaller for mobile */
+    }
+
+    header .intro-text .intro-heading {
+        font-size: 24px; /* Slightly smaller for mobile */
+    }
+}
 }
 
 section {
