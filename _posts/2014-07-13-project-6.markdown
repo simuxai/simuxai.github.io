@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Blender
+subtitle: Graphics and animation tool
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2025-06-01
+img: blender.png
+thumbnail: blender.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: June 2025
+client: NA
+category: Graphics
+description: Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process. 
 
 ---
