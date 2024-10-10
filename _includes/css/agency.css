@@ -305,7 +305,7 @@ header .intro-text .intro-heading {
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 20px;
 }
 
 @media(min-width:768px) {
@@ -319,7 +319,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 40px;
+        line-height: 20px;
     }
 
     header .intro-text .intro-heading {
