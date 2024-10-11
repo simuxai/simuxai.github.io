@@ -3,7 +3,7 @@ title: OpenFOAM
 subtitle: 3D CFD Tool
 layout: default
 modal-id: 2
-date: 2025-06-01
+date: 2025-06-01 
 img: openfoam.png
 thumbnail: openfoam.png
 alt: image-alt
