@@ -4,7 +4,7 @@ subtitle: Chemical Processes
 layout: default
 modal-id: 3
 date: 2025-06-01
-img: dwsim.png 
+img: dwsim.png
 thumbnail: dwsim.png
 alt: image-alt
 project-date: June 2025
