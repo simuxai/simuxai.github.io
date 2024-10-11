@@ -3,11 +3,11 @@ title: OpenFOAM
 subtitle: 3D CFD Tool
 layout: default
 modal-id: 2
-date: 2024-06-01
+date: 2025-06-01
 img: openfoam.png
 thumbnail: openfoam.png
 alt: image-alt
-project-date: June 2024
+project-date: June 2025
 client: NA
 category: Fluid Dynamics
 description: OpenFOAM is the free, open source CFD software developed primarily by OpenCFD Ltd since 2004. It has a large user base across most areas of engineering and science, from both commercial and academic organisations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics. 
