@@ -3,11 +3,11 @@ title: LAMMPS
 subtitle: Molecular Dynamics Simulators
 layout: default
 modal-id: 4
-date: 2024-06-01
+date: 2025-06-01
 img: lammps.png
 thumbnail: lammps.png
 alt: image-alt
-project-date: June 2024
+project-date: June 2025
 client: NA
 category: Molecular Dynamics
 description: LAMMPS is a classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator.
