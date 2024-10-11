@@ -3,11 +3,11 @@ title: DWSIM
 subtitle: Chemical Processes
 layout: default
 modal-id: 3
-date: 2024-06-01
+date: 2025-06-01
 img: dwsim.png
 thumbnail: dwsim.png
 alt: image-alt
-project-date: June 2024
+project-date: June 2025
 client: NA
 category: Chemical Processes
 description: DWSIM is a  CAPE-OPEN compliant Chemical Process Simulator and has an easy-to-use graphical interface with many features previously available only in commercial chemical process simulators.
