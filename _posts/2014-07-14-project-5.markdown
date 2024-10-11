@@ -3,11 +3,11 @@ title: Paraview
 subtitle: 3D post processing tool
 layout: default
 modal-id: 5
-date: 2024-06-01
+date: 2025-06-01
 img: paraview.png
 thumbnail: paraview.png
 alt: image-alt
-project-date: June 2024
+project-date: June 2025
 client: NA
 category: Post processing
 description: ParaView is an award-winning open source visualization application that users have trusted for more than 20 years. Start exploring your data using this powerful tool, for free, today. Kitware–the developers behind ParaView–also offers Customization services.
