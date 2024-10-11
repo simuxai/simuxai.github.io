@@ -4,7 +4,7 @@ subtitle: Molecular Dynamics Simulators
 layout: default
 modal-id: 4
 date: 2025-06-01
-img: lammps.png
+img: lammps.png 
 thumbnail: lammps.png
 alt: image-alt
 project-date: June 2025
